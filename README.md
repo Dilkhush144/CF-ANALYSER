@@ -1,6 +1,6 @@
 # Codeforces Stats Analyzer.
 
-The [Codeforces Stats Analyzer](https://codeforces-stats.netlify.app/) is a web-based tool designed to provide in-depth analysis and visualization of Codeforces user statistics. It helps competitive programmers gain insights into their performance trends, strengths, and areas for improvement.
+The [Codeforces Stat Analyzer](https://codeforces-stat.netlify.app/) is a web-based tool designed to provide in-depth analysis and visualization of Codeforces user statistics. It helps competitive programmers gain insights into their performance trends, strengths, and areas for improvement.
 
 ### Features
 
