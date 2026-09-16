@@ -6,21 +6,21 @@ export default function Footer() {
 	return (
 		<footer className="site-footer">
 			<div>
-				<strong>AYUSH RAJ</strong>
+				<strong>DILKHUSH RAJ</strong>
 				<span>Competitive programming analytics</span>
 			</div>
 			<div className="footer-links">
-				<a href="https://github.com/Ayushraj6202" target="_blank" rel="noreferrer">
+				<a href="https://github.com/Dilkhush144" target="_blank" rel="noreferrer">
 					<GitHubIcon fontSize="small" /> GitHub
 				</a>
 				<a
-					href="https://www.linkedin.com/in/ayush-raj-469737246/"
+					href="https://www.linkedin.com/feed/"
 					target="_blank"
 					rel="noreferrer"
 				>
 					<LinkedInIcon fontSize="small" /> LinkedIn
 				</a>
-				<a href="mailto:ayush2101ce@gmail.com">
+				<a href="mailto:kdilkhush844@gmail.com">
 					<MailOutlineIcon fontSize="small" /> Email
 				</a>
 			</div>
