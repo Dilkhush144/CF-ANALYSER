@@ -14,7 +14,7 @@ export default function Footer() {
 					<GitHubIcon fontSize="small" /> GitHub
 				</a>
 				<a
-					href="https://www.linkedin.com/feed/"
+					href="https://www.linkedin.com/in/dilkhushraj"
 					target="_blank"
 					rel="noreferrer"
 				>

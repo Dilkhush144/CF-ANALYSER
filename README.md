@@ -96,7 +96,7 @@ CF-ANALYSER/
 ### Dilkhush Raj
 - **GitHub**: [@Dilkhush144](https://github.com/Dilkhush144)
 - **Email**: [kdilkhush844@gmail.com](mailto:kdilkhush844@gmail.com)
-- **LinkedIn**: [Dilkhush Raj](https://www.linkedin.com/feed/)
+- **LinkedIn**: [Dilkhush Raj](https://www.linkedin.com/in/dilkhushraj)
 
 ---
 
