@@ -1,7 +1,10 @@
 {
   "name": "cf-analyser",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A web application for analyzing Codeforces user performance, ratings, contests, and problem-solving statistics",
+  "author": "Dilkhush Raj",
+  "homepage": "https://github.com/Dilkhush144/CF-ANALYSER",
   "type": "module",
   "scripts": {
     "dev": "vite",
