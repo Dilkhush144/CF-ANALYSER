@@ -10,6 +10,14 @@
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **[Launch Codeforces Stats Analyzer](https://codeforces-stat.netlify.app/)**
+
+> Fully deployed on Netlify with real-time Codeforces Public API integration.
+
+---
+
 ## 📌 Overview
 
 **CF-ANALYSER** is an interactive analytics tool designed for competitive programmers on [Codeforces](https://codeforces.com/). It queries the official Codeforces Public API directly from the client side to provide comprehensive breakdowns of problem-solving activity, contest trajectories, accuracy distributions, and topic masteries.
